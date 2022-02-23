@@ -7,9 +7,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:567141968030:android:aefe846d881f6ef865338f",
+        "mobilesdk_app_id": "1:567141968030:android:15fba4c24416b75665338f",
         "android_client_info": {
-          "package_name": "com.bentec.meterlagao"
+          "package_name": "com.bwpush.noti"
         }
       },
       "oauth_client": [
